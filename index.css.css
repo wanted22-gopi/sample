@@ -1,0 +1,171 @@
+
+.logo-icon {
+    width: 50px;
+    height: 50px;
+    padding: 1px;
+}
+
+.page-bg-image {
+    background-image: url("https://img.freepik.com/free-photo/coffee-latte-with-cookies-coffiee-beans_141793-17440.jpg?size=626&ext=jpg&uid=R138019876&ga=GA1.1.1185280758.1707984490&semt=ais");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: whitesmoke;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.banner-caption {
+    color: white;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.custom-button {
+    color: black;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.coffe-mashines-container {
+    background-color: white;
+
+}
+
+.coffe-mashines-lenth {
+    height: 150px;
+    width: 100px;
+
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+.heading-elements {
+    font-family: "Monoton";
+    font-style: italic;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.pearagraph-elements {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500px;
+}
+
+.coffee-machine-img {
+    height: 700px;
+    width: 500px;
+}
+
+.about-us-img {
+    border: 50px;
+}
+
+.about-img {
+    height: 450px;
+    width: 450px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.about-us-button {
+    border-radius: 5px;
+    color: #e69900;
+    background-color: rgb(48, 46, 46);
+
+}
+
+.clint-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.reg-bg-container {
+    background: url("https://img.freepik.com/free-photo/young-woman-eating-croissants-cafe_1303-20408.jpg?size=626&ext=jpg&uid=R138019876&ga=GA1.1.1185280758.1707984490&semt=ais");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.reg-header {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 15px;
+}
+
+.input-box {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.submit-button {
+    color: rgb(239, 244, 240);
+    border: none;
+    background-color: green;
+    height: 40px;
+    width: 70px;
+    border-radius: 4px;
+
+
+}
+
+.Footer-section-bg-container {
+    background-color: rgb(102, 43, 3);
+    background-size: cover;
+
+}
+
+.cont-header {
+    color: whitesmoke;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.i-con {
+    height: 30px;
+    width: 20px;
+    color: whitesmoke;
+
+}
+
+.follo-us-peragrah {
+    color: whitesmoke;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+.container-2 {
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-right: 100px;
+}
+
+.company-log-for-fotter-section {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.follo-map {
+    height: 700px;
+    width: 500px;
+}
